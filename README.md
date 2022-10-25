@@ -54,5 +54,3 @@ DELETE /api/notes/:id should receive a query parameter containing the id of a no
 You are required to submit BOTH of the following for review:
 The URL of the functional, deployed application.
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-## My Video Submission
